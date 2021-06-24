@@ -2463,7 +2463,28 @@ input[type="radio"]:focus + label:before {
 }
 
 /* Image */
-
+.knownow_logo
+{
+  border-radius: 8px;
+  position: relative;
+  height: 6vh;
+  margin-top: 9vh;
+  margin-bottom: 12vh;
+}
+.hh_logo
+{
+  border-radius: 8px;
+  position: relative;
+  height: 25vh;
+  margin-bottom: 2vh;
+}
+.parteez_logo
+{
+  border-radius: 8px;
+  position: relative;
+  height: 30vh;
+  margin-bottom: -3vh;
+}
 .verizon_logo {
   border-radius: 8px;
   position: relative;
@@ -2758,8 +2779,7 @@ ul.icons li:last-child {
 .uci_logo {
   border-radius: 8px;
   position: relative;
-  height: 20vh;
-  margin-left: -4vw;
+  height: 14vh;
   margin-bottom: 4vh;
 }
 
