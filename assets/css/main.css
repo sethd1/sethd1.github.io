@@ -2493,6 +2493,14 @@ input[type="radio"]:focus + label:before {
   margin-bottom: 14vh;
 }
 
+.infa-logo {
+  border-radius: 8px;
+  position: relative;
+  height: 18vh;
+  margin-top: -5vh;
+  margin-bottom: -5vh;
+}
+
 .apa_logo {
   border-radius: 8px;
   position: relative;
